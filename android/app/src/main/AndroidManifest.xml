@@ -14,7 +14,7 @@
         <!-- TARUH API KEY DI SINI (DI DALAM APPLICATION) -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBJmNc9_67caVTThbJprHEmXKBNYq0qw1E"/>
+            android:value="AIzaSyDU4GaJW4pJKPzhHHlME6cSzyiVjFWnEio"/>
 
         <activity
             android:name=".MainActivity"
